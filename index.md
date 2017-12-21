@@ -1,5 +1,5 @@
 ---
-title: Blogging Like a Hacker
+title: Blogging Like a Hackerx
 ---
 test
 [markup](http://snhub.github.io/)
